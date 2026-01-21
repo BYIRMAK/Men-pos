@@ -32,3 +32,4 @@ jobs:
         name:  MenuPOS-Windows
         path: dist/MenuPOS. exe
  
+       
