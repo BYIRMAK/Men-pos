@@ -31,3 +31,4 @@ jobs:
       with:
         name:  MenuPOS-Windows
         path: dist/MenuPOS. exe
+ 
